@@ -1,0 +1,1 @@
+Here, we worked on sentiment analysis on english and hindi database where we are applying modern and traditional algorithms to classify the sentiment and comparing that which type of algorithm performs better.
